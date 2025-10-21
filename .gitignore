@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.sqlite3
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Media/outputs
+media/*/*/*.wav
+media/*/*/*.mp4
+media/*/*/*.mov
+assets/output_*.csv
