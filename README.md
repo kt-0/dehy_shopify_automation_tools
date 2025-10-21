@@ -9,9 +9,8 @@ Automates turning short cocktail videos into published recipe pages with linked 
 - Update product variant order and metafields
 
 ---
-
 ## End-to-End Pipeline
-
+```
 [ Videos ]              [ Images ]                [ Excel / Shopify CSVs ]
      |                        |                               |
      v                        v                               v
@@ -31,11 +30,11 @@ Automates turning short cocktail videos into published recipe pages with linked 
             \_____________________  _____________________/
                                   \/
                            [ Published Recipe ]
-
+```
 ---
 
 ## Project Structure
-
+```
 dehy_shopify_automation_tools/
 ├─ src/
 │  ├─ shopify_utils/
@@ -74,7 +73,7 @@ dehy_shopify_automation_tools/
 ├─ requirements.txt
 ├─ README.md
 └─ LICENSE
-
+```
 ---
 
 ## Setup
